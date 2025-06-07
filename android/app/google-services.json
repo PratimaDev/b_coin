@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558129311814",
+    "project_id": "b-coin-c5eb6",
+    "storage_bucket": "b-coin-c5eb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558129311814:android:abf7121fd32b8021b7da47",
+        "android_client_info": {
+          "package_name": "com.bcoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtLmox30Wlv3s-o2rM3u_B6-V9ZvwGX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558129311814:android:c8d92e52c9a5b381b7da47",
+        "android_client_info": {
+          "package_name": "com.example.b_coin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtLmox30Wlv3s-o2rM3u_B6-V9ZvwGX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

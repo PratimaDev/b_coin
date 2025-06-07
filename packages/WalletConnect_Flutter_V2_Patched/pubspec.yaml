@@ -1,0 +1,21 @@
+name: walletconnect_flutter_v2
+description: Patched WalletConnect V2 SDK for Flutter (Dart 3.5.x compatible)
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web3dart: ^2.5.4       # ✅ Compatible with uuid 3.x
+  uuid: ^3.0.6           # ✅ Match with main app
+  package_info_plus: ^4.0.0  # ✅ Downgrade to avoid `web` conflict
+  logger: ^2.0.2
+
+#flutter:
+#  plugin:
+#    platforms:
+#      android:
+#        package: com.walletconnect.flutter
+#        pluginClass: WalletConnectPlugin
